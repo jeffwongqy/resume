@@ -28,6 +28,13 @@
 - Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
+# Projects
+- **Predictive Modeling of Lung Cancer Adenocarcinoma Genes Using Tree-Based Approaches:** Developed and validated predictive models for identifying key genes associated with lung adenocarcinoma using tree-based machine learning models such as XGBoost, Gradient Boosting, etc..
+- **Neural Network Approach for Calories Burnt Prediction:**
+-   Experimented with different network architectures, activation functions, and optimization algorithms to identify the most effective configuration.
+-   Evaluate the performance of the trained neural network model using appropriate metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Validate the model using cross-validation techniques to assess its generalization ability.
+
+
 # Skills 
 - **Languages:** Python, R, C, HTML, CSS, Javascript, and SQLite
 - **Platform:** Spyder IDE and Visual Studio Code
