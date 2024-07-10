@@ -1,6 +1,5 @@
-# Data Scientist
-
-### Education 
+# Education 
+---
 BSC in Statistics & Data Science 
 
 
