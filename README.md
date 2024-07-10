@@ -19,7 +19,6 @@
 
 
 **A*STAR - Agency for Science, Technology and Research | Jan 2024 - May 2024**
-
 **Deep Learning Research Intern**
 - Developed deep learning models and algorithms for materials informatics.
 - Collaborated with cross-functional teams to design and implement deep learning solutions that address specific materials science challenges and opportunities. 
