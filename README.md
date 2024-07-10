@@ -1,7 +1,7 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - Current**
 
-- B.Sc. (Hons) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
+- B.Sc. (Hons) in Statistics, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
 
 ### **Singapore Polytechnic | 2023**
 - Specialist Diploma in Data Science (Vision and Language Analytics)
