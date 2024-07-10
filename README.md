@@ -1,5 +1,4 @@
 # Education 
-
 **National University of Singapore (NUS) | 2022 - 2026**
 
 - B.Sc. (Distinction) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
@@ -17,6 +16,8 @@
 - Documented technical specifications and user guides for future reference.
 - Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
 - Staying up-to-date with the latest advancements in software development and deep learning technologies.
+
+**A*STAR - Agency for Science, Technology and Research | Jan 2024 - May 2024**
 
 **Deep Learning Research Intern**
 - Developed deep learning models and algorithms for materials informatics.
