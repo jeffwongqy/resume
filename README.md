@@ -25,12 +25,10 @@
 - Developed deep learning models and algorithms for materials informatics.
 - Collaborated with cross-functional teams to design and implement deep learning solutions that address specific materials science challenges and opportunities. 
 - Continuously researched and experimented with new deep-learning techniques and tools to improve model performance and accuracy.
-
-# Achievements
-- A*STAR ARIA Research Internship Award 2024
 - Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
-
+# Achievements
+- A*STAR ARIA Research Internship Award 2024
 
 
