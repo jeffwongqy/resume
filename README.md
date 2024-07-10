@@ -29,9 +29,9 @@
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
 # Skills 
-- Languages: Python, R, C, HTML, CSS, Javascript, and SQLite
-- Platform: Spyder IDE and Visual Studio Code
-- Deep Learning: DNN, CNN, RNN, LSTM, GAN, and VAE
+- **Languages:** Python, R, C, HTML, CSS, Javascript, and SQLite
+- **Platform:** Spyder IDE and Visual Studio Code
+- **Deep Learning:** DNN, CNN, RNN, LSTM, GAN, and VAE
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
