@@ -34,18 +34,19 @@
 
 # Projects
 ### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes Using Tree-Based Approaches**
+- Proposed a solution to uncovering the genetic signature underlying lung adenocarcinoma. 
 - Collected data from BARRA:CuRDa (https://sbcb.inf.ufrgs.br/barracurda) for analysis and modeling in the context of lung cancer adenocarcinoma.
 - Preprocessed the data to remove noise, correct for batch effects, and standardize features for compatibility with tree-based algorithms.
-- Built various tree-based algorithms, such as decision trees, random forests, and gradient boosting machines, to select informative features and build predictive models.
-- Explored different parameter settings and ensemble techniques to optimize model performance and generalization across diverse datasets.
-- Validated the predictive accuracy, robustness, and generalizability of the developed models using cross-validation, independent validation cohorts, and performance metrics of the selected models.
+- Experimented with various tree-based algorithms that select informative features and build predictive models.
+- Experimented with different parameter settings to optimize model performance and generalization across diverse datasets.
+- Validated the developed models' predictive accuracy, robustness, and generalizability using cross-validation, independent validation cohorts, and performance metrics of the selected models.
 
-### **Development of Health Web App with Integration of Ensemble Machine Learning for Early Diagnosis of Obesity**
-- Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweighed or obese.
-- Evaluated the impact of combined data sampling techniques such as SMOTE-Tomek, etc. for imbalanced classes.
-- Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis for obesity.
+### **Early Diagnosis of Obesity**
+- Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
+- Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
+- Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
 - Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
-- Developed a user-friendly intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
+- Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
 
 
 # Skills 
