@@ -10,6 +10,7 @@
 
 # Work Experience
 **A*STAR - Agency for Science, Technology and Research | May 2024 - Jul 2024**
+
 **Python Web Developer Research Intern**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
 - Troubleshooting and debugging software issues, performing testing and quality assurance to ensure robustness and reliability.
