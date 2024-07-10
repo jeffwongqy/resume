@@ -1,7 +1,7 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - Current**
 
-- B.Sc. (Distinction) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
+- B.Sc. (Hons) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
 
 ### **Singapore Polytechnic | 2023**
 - Specialist Diploma in Data Science (Vision and Language Analytics)
@@ -33,7 +33,7 @@
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
 # Projects
-### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes Using Tree-Based Approaches**
+### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes**
 - Proposed a solution to uncovering the genetic signature underlying lung adenocarcinoma. 
 - Collected data from BARRA:CuRDa (https://sbcb.inf.ufrgs.br/barracurda) for analysis and modeling in the context of lung cancer adenocarcinoma.
 - Preprocessed the data to remove noise, correct for batch effects, and standardize features for compatibility with tree-based algorithms.
