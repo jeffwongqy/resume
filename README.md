@@ -1,6 +1,6 @@
 # Education 
 ---
-## **National University of Singapore (NUS) | 2022 - 2026**
+**National University of Singapore (NUS) | 2022 - 2026**
 
 B.Sc. (Distinction) in Statistics, Second Major in Data Science, 
 
