@@ -3,7 +3,8 @@
 
 - B.Sc. (Hons) in Statistics, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
 
-### **Singapore Polytechnic | 2023**
+### **Singapore Polytechnic | 2023 - 2024**
+- Specialist Diploma in Data Science (Data Analytics)
 - Specialist Diploma in Data Science (Vision and Language Analytics)
 - Specialist Diploma in Data Science (Predictive Analytics)
 
@@ -13,7 +14,7 @@
 
 # Work Experience
 ### **Prodigy Infotech | Generative AI Intern | Jul 2024**
-- Fine-tuned GPT-2 and Markovify for coherent and contextually relevant text generation. 
+- Fine-tuned pre-trained GPT-2 and Markovify for coherent and contextually relevant text generation. 
 - Utilized stable diffusion to generate images based on user-text prompts. 
 - Optimized conditional GAN training for improved image generation quality. 
 - Researched the latest advancements in generative AI techniques. 
