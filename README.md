@@ -10,5 +10,20 @@
 
 # Work Experience
 **A*STAR - Agency for Science, Technology and Research | May 2024 - Jul 2024**
-- ABC
+**Python Web Developer Research Intern**
+- Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
+- Troubleshooting and debugging software issues, performing testing and quality assurance to ensure robustness and reliability.
+- Documented technical specifications and user guides for future reference.
+- Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
+- Staying up-to-date with the latest advancements in software development and deep learning technologies.
+
+**Deep Learning Research Intern**
+- Developed deep learning models and algorithms for materials informatics.
+- Collaborated with cross-functional teams to design and implement deep learning solutions that address specific materials science challenges and opportunities. 
+- Continuously researched and experimented with new deep-learning techniques and tools to improve model performance and accuracy.
+- Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
+- Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
+
+
+
 
