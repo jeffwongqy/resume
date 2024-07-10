@@ -15,7 +15,6 @@
 - Developed an image-to-image translation model using conditional generative adversarial networks (cGANs).
 
 **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
-
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
 - Troubleshooting and debugging software issues, performing testing and quality assurance to ensure robustness and reliability.
 - Documented technical specifications and user guides for future reference.
