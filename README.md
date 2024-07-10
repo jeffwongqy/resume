@@ -13,6 +13,6 @@ Specialist Diploma in Biomedical Informatics & Analytics
 Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
-**A*STAR - Agency for Science, Technology and Research | May 2024 - Jul 2024 **
+**A*STAR - Agency for Science, Technology and Research | May 2024 - Jul 2024**
 - ABC
 
