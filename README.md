@@ -16,7 +16,6 @@
 - Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
 - Staying up-to-date with the latest advancements in software development and deep learning technologies.
 
-
 **A*STAR - Agency for Science, Technology and Research | Deep Learning Research Intern | Jan 2024 - May 2024**
 
 - Developed deep learning models and algorithms for materials informatics.
