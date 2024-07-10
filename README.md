@@ -13,10 +13,11 @@
 
 # Work Experience
 ### **Prodigy Infotech | Generative AI Intern | Jul 2024**
-- Developed and fine-tuned a GPT-2 model to generate coherent and contextually relevant text based on business specifications.
-- Designed and implemented a text generation algorithm utilizing Markov Chains theory to enable the prediction of characters or words based on preceding elements to create probabilistic text sequences.
-- Leveraged pre-trained generative models such as Stable Diffusion to generate images from text prompts to facilitate the transformation of textual descriptions into visual representations.
-- Developed an image-to-image translation model using conditional generative adversarial networks (cGANs).
+- Fine-tuned GPT-2 and Markovify for coherent and contextually relevant text generation. 
+- Utilized stable diffusion to generate images based on user-text prompts. 
+- Optimized conditional GAN training for improved image generation quality. 
+- Researched the latest advancements in generative AI techniques. 
+- Provided documentation for model implementation.
 
 ### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
