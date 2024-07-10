@@ -29,11 +29,14 @@
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
 # Projects
-## **Neural Network Approach for Calories Burnt Prediction:**
--   Experimented with different network architectures, activation functions, and optimization algorithms to identify the most effective configuration.
--   Evaluated the performance of the trained neural network model using appropriate metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
--   Validated the model using cross-validation techniques to assess its generalization ability.
--   Assessed the accuracy, reliability, and usability of the proposed system in practical scenarios.
+## **Predictive Modeling of Lung Cancer Adenocarcinoma Genes Using Tree-Based Approaches**
+- Collected data from BARRA:CuRDa (https://sbcb.inf.ufrgs.br/barracurda) for analysis and modeling in the context of lung cancer adenocarcinoma.
+- Preprocessed the data to remove noise, correct for batch effects, and standardize features for compatibility with tree-based algorithms.
+- Built various tree-based algorithms, such as decision trees, random forests, and gradient boosting machines, to select informative features and build predictive models.
+- Explored different parameter settings and ensemble techniques to optimize model performance and generalization across diverse datasets.
+- Validated the predictive accuracy, robustness, and generalizability of the developed models using cross-validation, independent validation cohorts, and performance metrics of the selected models.
+
+
 
 # Skills 
 - **Languages:** Python, R, C, HTML, CSS, Javascript, and SQLite
