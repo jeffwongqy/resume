@@ -68,5 +68,6 @@
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
+- 3M Singapore Gold Medal 
 
 
