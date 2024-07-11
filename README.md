@@ -3,6 +3,10 @@
 
 - B.Sc. (Hons) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
 
+### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
+- Nominated by NUS for Local Singapore University Student Exchange Program (SUSEP)
+- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Biomaterials (BG2131)
+
 ### **Singapore Polytechnic | 2023 - 2024**
 - Specialist Diploma in Data Science (Data Analytics)
 - Specialist Diploma in Data Science (Vision and Language Analytics)
@@ -68,6 +72,8 @@
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
-- 3M Singapore Gold Medal 
+- Opportunity Enhancement Grants for Overseas Exchange
+- 3M Singapore Gold Medal
+
 
 
