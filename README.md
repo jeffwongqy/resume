@@ -22,8 +22,10 @@
 
 ### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
-- Troubleshooting and debugging software issues, performing testing and quality assurance to ensure robustness and reliability.
-- Documented technical specifications and user guides for future reference.
+- Rigorously tested and debugged applications ensuring the reliability and resilience of the AI platform before deployment. 
+- Applied UX/UI design principles to create visually appealing and intuitive interfaces to enhance user satisfaction and engagement.
+- Written clean, efficient, and maintainable code following best practices and coding standards.
+- Collaborated with research scientists to integrate AI functionalities by providing the best possible user experience. 
 - Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
 - Staying up-to-date with the latest advancements in software development and deep learning technologies.
 
