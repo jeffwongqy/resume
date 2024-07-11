@@ -72,8 +72,7 @@
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
-- Opportunity Enhancement Grants for Overseas Exchange
-- 3M Singapore Gold Medal
+- NUS Opportunity Enhancement Grants for Engagement Programs
 
 
 
