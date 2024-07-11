@@ -36,6 +36,14 @@
 - Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
+### **Ministry of Education | UAT Tester | Apr 2020 - Jun 2021**
+- Executed black-box and grey-box UAT testing to ensure software met functional requirements. 
+- Conducted various types of manual testing, including sprint, sanity, and regression testing to verify system performance and reliability. 
+- Collaborated with other testers and QA to resolve issues efficiently to enhance the overall quality of the product. 
+- Documented and communicated test results and issues clearly. 
+- Contributed to the improvement of UAT methodologies to enhance the testing process. 
+- Identified and troubleshoot issues and bottlenecks to prevent potential system failures and improve user satisfaction.
+
 # Projects
 ### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes**
 - Proposed a solution to uncovering the genetic signature underlying lung adenocarcinoma. 
