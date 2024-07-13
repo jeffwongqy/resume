@@ -5,7 +5,7 @@
 
 ### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
 - Nominated by NUS for Local Singapore University Student Exchange Program (SUSEP)
-- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Biomaterials (BG2131)
+- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Actuarial Statistics (BA3202)
 
 ### **Singapore Polytechnic | 2023 - 2024**
 - Specialist Diploma in Data Science (Data Analytics)
@@ -66,8 +66,8 @@
 
 
 # Skills 
-- **Languages:** Python, R, C, HTML, CSS, Javascript, and SQLite
-- **Platform:** Spyder IDE and Visual Studio Code
+- **Languages:** Python, R, C, and SQLite
+- **Developer Tools:** Spyder IDE and Visual Studio Code
 - **Deep Learning:** DNN, CNN, RNN, LSTM, GAN, and VAE
 
 # Achievements
