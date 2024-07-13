@@ -53,9 +53,9 @@
 - Proposed a solution to uncovering the genetic signature underlying lung adenocarcinoma. 
 - Collected data from BARRA:CuRDa (https://sbcb.inf.ufrgs.br/barracurda) for analysis and modeling in the context of lung cancer adenocarcinoma.
 - Preprocessed the data to remove noise, correct for batch effects, and standardize features for compatibility with tree-based algorithms.
-- Experimented with various tree-based algorithms that select informative features and build predictive models.
+- Experimented with tree-based algorithms that select informative features and build predictive models.
 - Experimented with different parameter settings to optimize model performance and generalization across diverse datasets.
-- Validated the developed models' predictive accuracy, robustness, and generalizability using cross-validation, independent validation cohorts, and performance metrics of the selected models.
+- Validated the developed models' predictive accuracy, robustness, and generalizability using the selected models' cross-validation, independent validation cohorts, and performance metrics.
 
 ### **Early Diagnosis of Obesity**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
@@ -66,9 +66,16 @@
 
 
 # Skills 
-- **Languages:** Python, R, C, and SQLite
+- **Languages:** Python, R, C, Javascript, HTML, CSS
+- **Database:** MySQL
 - **Developer Tools:** Spyder IDE and Visual Studio Code
-- **Deep Learning:** DNN, CNN, RNN, LSTM, GAN, and VAE
+- **Deep Learning:** DNN, CNN, RNN, LSTM, VAE, GAN
+
+# Research Interests
+- Statistical Modelling
+- Time Series Analysis
+- Data Visualization
+- Machine Learning and Deep Learning
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
