@@ -5,7 +5,7 @@
 
 ### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
 - Nominated by NUS for the Local Singapore University Student Exchange Program (SUSEP)
-- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Actuarial Statistics (BA3202)
+- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Biomaterials (BG2131)
 
 ### **Singapore Polytechnic | 2023 - 2024**
 - Specialist Diploma in Data Science (Data Analytics)
