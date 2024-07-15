@@ -17,6 +17,8 @@
 - Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
+### **ShadowFox | Data Science Intern | Aug 2024**
+
 ### **Prodigy Infotech | Generative AI Intern | Jul 2024**
 - Fine-tuned pre-trained GPT-2 and Markovify for coherent and contextually relevant text generation. 
 - Utilized stable diffusion to generate images based on user-text prompts. 
