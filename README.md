@@ -18,12 +18,7 @@
 # Work Experience
 ### **ShadowFox | Data Science Intern | Aug 2024**
 
-### **Prodigy Infotech | Generative AI Intern | Jul 2024**
-- Fine-tuned pre-trained GPT-2 and Markovify for coherent and contextually relevant text generation. 
-- Utilized stable diffusion to generate images based on user-text prompts. 
-- Optimized conditional GAN training for improved image generation quality. 
-- Researched the latest advancements in generative AI techniques. 
-- Provided documentation for model implementation.
+### **iNeuron.ai | Data Science Intern | Jul 2024 - Current**
 
 ### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
