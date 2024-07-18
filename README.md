@@ -19,6 +19,7 @@
 ### **ShadowFox | Data Science Intern | Aug 2024**
 
 ### **iNeuron.ai | Data Science Intern | Jul 2024 - Current**
+- Currently experimented using time series analysis for fuel price prediction. 
 
 ### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
