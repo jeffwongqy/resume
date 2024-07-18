@@ -41,13 +41,22 @@
 - Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
-### **Ministry of Education | UAT Tester | Apr 2020 - Jun 2021**
+### **Ministry of Education | UAT Tester (Contract) | Apr 2020 - Jun 2021**
 - Executed black-box and grey-box UAT testing to ensure software met functional requirements. 
 - Conducted various types of manual testing, including sprint, sanity, and regression testing to verify system performance and reliability. 
 - Collaborated with other testers and QA to resolve issues efficiently to enhance the overall quality of the product. 
 - Documented and communicated test results and issues clearly. 
 - Contributed to the improvement of UAT methodologies to enhance the testing process. 
 - Identified and troubleshoot issues and bottlenecks to prevent potential system failures and improve user satisfaction.
+
+### **Building and Construction Authority | Data Analyst (Contract) | Mar 2019 - Sep 2019**
+- Organized and maintained records of advertising structures with Structural Plan Approvals (ST Approvals) and Certificates of Statutory Completion (CSC). 
+- Monitored the status of Temporary Building Permits (TBPs) for advertising structures with Exempted Licenses. 
+- Conducted comprehensive profiling of over 2000 applications to determine the issuance of Written (WD) and categorized the types of WD issued. 
+- Collaborated with cross-functional teams to streamline data management processes.
+- Utilized SQL platform to store and manage datasets related to advertising structures and permits.
+- Applied basic data cleansing techniques using Python for rigorous validation and transformation processes. 
+- Developed interactive visualization dashboards using Tableau to present the data insights to identify trends and patterns.
 
 # Projects
 ### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes**
