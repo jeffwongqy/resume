@@ -16,8 +16,6 @@
 - Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
-### **ShadowFox | Data Science Intern | Aug 2024**
-
 ### **iNeuron.ai | Data Science Intern | Jul 2024 - Current**
 - Currently experimented using time series analysis for fuel price prediction. 
 
