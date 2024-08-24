@@ -7,11 +7,8 @@
 - Nominated by NUS for the Local Singapore University Student Exchange Program (SUSEP)
 - Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Biomaterials (BG2131)
 
-### **Singapore Polytechnic | 2023**
-- Specialist Diploma in Data Science (Vision and Language Analytics)
-- Specialist Diploma in Data Science (Predictive Analytics)
-
-### **Republic Polytechnic | 2020 - 2022**
+### **Republic Polytechnic | 2020 - 2024**
+- Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
 - Specialist Diploma in Biomedical Informatics & Analytics 
 - Specialist Diploma in Applied Artificial Intelligence
 
@@ -78,6 +75,14 @@
 - **Database:** MySQL
 - **Developer Tools:** Spyder IDE and Visual Studio Code
 - **Deep Learning:** DNN, CNN, RNN, LSTM, VAE, GAN
+
+# Completed DataCamp Courses
+- Supervised Learning with scikit-learn
+- Introduction to Data Visualization with Seaborn
+- Generalized Linear Models in Python
+- Introduction to Python
+- Exploratory Data Analysis in R
+- Introduction to R
 
 # Research Interests
 - Statistical Modelling
