@@ -51,14 +51,14 @@
 - Developed interactive visualization dashboards using Tableau to present the data insights to identify trends and patterns.
 
 # Projects
-### **Development and Evaluation of Predictive Models for Heart Disease**
+### **Development and Evaluation of Predictive Models for Heart Disease (NUS, DSA1101 - Introduction to Data Science)**
 - Explored and analyzed variable associations to identify significant predictors of heart disease.
 - Evaluated multiple classification techniques, including logistic regression, decision trees, and ensemble methods.
 - Compared model performance using metrics such as accuracy, precision, recall, and F1-score.
 - Selected the most effective classification method for heart disease prediction.
 - Generated a detailed report summarizing findings and model evaluation results. 
 
-### **Optimizing Logistic Regression for Spam Detection**
+### **Optimizing Logistic Regression for Spam Detection (NUS, DSA3102 - Convex Optimisation)**
 - Optimized logistic regression model for spam classification using Steepest Descent and Stochastic Gradient Descent algorithms.
 - Theoretically derived the gradient and Hessian of the logistic regression loss function.
 - Analyze and compare the convergence properties of Steepest Descent and Stochastic Gradient Descent.
@@ -66,13 +66,21 @@
 - Implemented and tested optimization algorithms on training and test datasets for performance assessment.
 - Documented insights into algorithm suitability for large-scale data optimization.
 
-### **Early Diagnosis of Obesity**
+### **Early Diagnosis of Obesity (RP, Capstone Project)**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
 - Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
 - Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
 - Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
 - Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
 
+### **Multiple Linear Regression of House Selling Prices**
+- Developed linear regression models to predict house selling prices using various potential predictors.
+- Evaluated model adequacy and assessed assumptions such as linearity, independence, and homoscedasticity.
+- Applied necessary transformations to improve model fit and address issues like multicollinearity or non-linearity.
+- Interpreted the influence of significant variables on house selling prices.
+- Validated model performance using appropriate metrics, such as R-squared and RMSE.
+- Provided recommendations for improving model accuracy and robustness.
+- Documented findings and provided insights into key predictors affecting house prices.
 
 # Skills 
 - **Languages:** Python, R, C/C++
