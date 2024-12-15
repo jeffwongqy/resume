@@ -51,13 +51,22 @@
 - Developed interactive visualization dashboards using Tableau to present the data insights to identify trends and patterns.
 
 # Projects
-### **Predictive Modeling of Lung Cancer Adenocarcinoma Genes**
-- Proposed a solution to uncovering the genetic signature underlying lung adenocarcinoma. 
-- Collected data from BARRA:CuRDa (https://sbcb.inf.ufrgs.br/barracurda) for analysis and modeling in the context of lung cancer adenocarcinoma.
-- Preprocessed the data to remove noise, correct for batch effects, and standardize features for compatibility with tree-based algorithms.
-- Experimented with tree-based algorithms that select informative features and build predictive models.
-- Experimented with different parameter settings to optimize model performance and generalization across diverse datasets.
-- Validated the developed models' predictive accuracy, robustness, and generalizability using the selected models' cross-validation, independent validation cohorts, and performance metrics.
+### **Development and Evaluation of Predictive Models for Heart Disease**
+- Explored and analyzed variable associations to identify significant predictors of heart disease.
+- Evaluated multiple classification techniques, including logistic regression, decision trees, and ensemble methods.
+- Compared model performance using metrics such as accuracy, precision, recall, and F1-score.
+- Selected the most effective classification method for heart disease prediction.
+- Generated a detailed report summarizing findings and model evaluation results. 
+
+### **Optimizing Logistic Regression for Spam Detection**
+- Optimized logistic regression model for spam classification using Steepest Descent and Stochastic Gradient Descent algorithms.
+- Theoretically derived the gradient and Hessian of the logistic regression loss function.
+- Analyze and compare the convergence properties of Steepest Descent and Stochastic Gradient Descent.
+- Evaluated model performance based on accuracy, misclassification rates, and computational time.
+- Implemented and tested optimization algorithms on training and test datasets for performance assessment.
+- Documented insights into algorithm suitability for large-scale data optimization.
+
+
 
 ### **Early Diagnosis of Obesity**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
