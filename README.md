@@ -5,7 +5,7 @@
 
 ### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
 - Nominated by NUS for the Local Singapore University Student Exchange Program (SUSEP)
-- Coursework: Regression Analysis (MH3510), Survey Methodology (MH4511), and Biomaterials (BG2131)
+- Coursework: Survey Methodology (MH4511), and Biomaterials (BG2131)
 
 ### **Republic Polytechnic | 2020 - 2024**
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
@@ -13,9 +13,6 @@
 - Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
-### **iNeuron.ai | Data Science Intern | Jul 2024 - Current**
-- Currently experimented using time series analysis for fuel price prediction. 
-
 ### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
 - Developed responsive and interactive web pages that align with the design specifications. 
@@ -71,23 +68,23 @@
 
 
 # Skills 
-- **Languages:** Python, R, C, Javascript, HTML, CSS
+- **Languages:** Python, R, C/C++
 - **Database:** MySQL
 - **Developer Tools:** Spyder IDE and Visual Studio Code
-- **Deep Learning:** DNN, CNN, RNN, LSTM, VAE, GAN
+- **Low Code Applications:** KNIME, Orange3
 
 # Completed DataCamp Courses
-- Supervised Learning with scikit-learn
-- Introduction to Data Visualization with Seaborn
-- Generalized Linear Models in Python
-- Introduction to Python
-- Exploratory Data Analysis in R
-- Introduction to R
+- Machine Learning with Tree-Based Models in Python
+- Time Series Analysis in Python
+- Working with HuggingFace
+- Monte Carlo Simulations in Python
+- Generalized Linear Models in Python & R
+- Exploratory Data Analysis in Python & R
+- Introduction & Intermediate SQL
 
 # Research Interests
-- Statistical Modelling
+- Regression Modelling
 - Time Series Analysis
-- Data Visualization
 - Machine Learning and Deep Learning
 
 # Achievements
