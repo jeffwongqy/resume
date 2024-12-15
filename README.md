@@ -75,6 +75,21 @@
 - Provided recommendations for improving model accuracy and robustness.
 - Documented findings and provided insights into key predictors affecting house prices.
 
+### **Critical Evaluation of Journal Studies on the DASH Diet's Efficacy in Managing Systolic Hypertension**
+- Conducted a systematic review of research studies on the DASH diet's impact on systolic hypertension.
+- Critically evaluated the quality and methodology of clinical trials and observational studies.
+- Analyzed key metrics such as blood pressure reduction, adherence rates, and long-term health outcomes.
+- Synthesized findings to identify strengths, limitations, and research gaps in current evidence.
+- Provided recommendations for future studies based on the findings from the literature review.
+- Documented a comprehensive critique of the DASH diet's effectiveness in managing systolic hypertension.
+
+### **Inferential Analysis of Cancer Carcinoma Incidence Across Gender and Racial Demographics in Singapore**
+- Analyzed cancer carcinoma incidence across gender and racial demographics using national cancer registries and healthcare data.
+- Employed biostatistical methods and statistical tools in R to identify trends and disparities in cancer occurrence.
+- Assessed the impact of gender and race on cancer risk, progression, and outcomes using statistical models.
+- Interpreted findings to understand demographic differences in cancer carcinoma incidence and health outcomes.
+- Documented and present the results, including recommendations for improving healthcare strategies.
+
 ### **Early Diagnosis of Obesity (RP, Capstone Project)**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
 - Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
@@ -85,8 +100,8 @@
 # Skills 
 - **Languages:** Python, R, C/C++
 - **Database:** MySQL
-- **Developer Tools:** Spyder IDE and Visual Studio Code
-- **Low Code Applications:** KNIME, Orange3
+- **Developer Tools:** Spyder IDE, Visual Studio Code, LaTEX
+- **Low Code ML Applications:** KNIME, Orange3
 
 # Completed DataCamp Courses
 - Machine Learning with Tree-Based Models in Python
