@@ -66,14 +66,7 @@
 - Implemented and tested optimization algorithms on training and test datasets for performance assessment.
 - Documented insights into algorithm suitability for large-scale data optimization.
 
-### **Early Diagnosis of Obesity (RP, Capstone Project)**
-- Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
-- Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
-- Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
-- Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
-- Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
-
-### **Multiple Linear Regression of House Selling Prices**
+### **Multiple Linear Regression of House Selling Prices (NUS, ST1131 - Introduction to Statistics & Statistical Computing)**
 - Developed linear regression models to predict house selling prices using various potential predictors.
 - Evaluated model adequacy and assessed assumptions such as linearity, independence, and homoscedasticity.
 - Applied necessary transformations to improve model fit and address issues like multicollinearity or non-linearity.
@@ -81,6 +74,13 @@
 - Validated model performance using appropriate metrics, such as R-squared and RMSE.
 - Provided recommendations for improving model accuracy and robustness.
 - Documented findings and provided insights into key predictors affecting house prices.
+
+### **Early Diagnosis of Obesity (RP, Capstone Project)**
+- Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
+- Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
+- Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
+- Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
+- Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
 
 # Skills 
 - **Languages:** Python, R, C/C++
