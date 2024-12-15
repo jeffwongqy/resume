@@ -66,8 +66,6 @@
 - Implemented and tested optimization algorithms on training and test datasets for performance assessment.
 - Documented insights into algorithm suitability for large-scale data optimization.
 
-
-
 ### **Early Diagnosis of Obesity**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
 - Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
