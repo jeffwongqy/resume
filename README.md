@@ -1,7 +1,7 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - Current**
 
-- B.Sc. (Hons) in Statistics, Second Major in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
+- B.Sc. (Hons) in Statistics, Specialization in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
 
 ### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
 - Nominated by NUS for the Local Singapore University Student Exchange Program (SUSEP)
@@ -13,7 +13,14 @@
 - Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
-### **A*STAR - Agency for Science, Technology and Research | Python Web Developer Research Intern | May 2024 - Jul 2024**
+### **Outlier AI | AI Evaluator | Freelance  | Dec 2024 - Current**
+- Performed analysis of prompt responses from the Large Language Model.
+- Assessed output for writing quality and truthfulness.
+- Crafted and answered questions related to STEM. 
+- Peer-reviewed work from other analysts.
+
+
+### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
 - Developed responsive and interactive web pages that align with the design specifications. 
 - Ensured cross-browser compatibility and optimized application performance for a seamless user experience. 
