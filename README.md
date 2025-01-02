@@ -1,11 +1,7 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - Current**
 
-- B.Sc. (Hons) in Statistics, Specialization in Data Science, Minor in Engineering Materials (Specialization in Biomedical & Polymeric Materials)
-
-### **Nanyang Technological University (NTU) | 2024 (Sem 1)**
-- Nominated by NUS for the Local Singapore University Student Exchange Program (SUSEP)
-- Coursework: Survey Methodology (MH4511), and Biomaterials (BG2131)
+- B.Sc. (Hons) in Statistics, Specialization in Data Science, Minor in Engineering Materials (Specialization in both Biomaterials and Structural Materials Tracks)
 
 ### **Republic Polytechnic | 2020 - 2024**
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
