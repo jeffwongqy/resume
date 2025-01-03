@@ -9,13 +9,6 @@
 - Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
-### **Outlier AI | AI Evaluator | Freelance  | Dec 2024 - Current**
-- Performed analysis of prompt responses from the Large Language Model.
-- Assessed output for writing quality and truthfulness.
-- Crafted and answered questions related to STEM. 
-- Peer-reviewed work from other analysts.
-
-
 ### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Jul 2024**
 - Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
 - Developed responsive and interactive web pages that align with the design specifications. 
@@ -50,64 +43,37 @@
 - Applied basic data cleansing techniques using Python for rigorous validation and transformation processes. 
 - Developed interactive visualization dashboards using Tableau to present the data insights to identify trends and patterns.
 
-# Projects
-### **Development and Evaluation of Predictive Models for Heart Disease (NUS, DSA1101 - Introduction to Data Science)**
-- Explored and analyzed variable associations to identify significant predictors of heart disease.
-- Evaluated multiple classification techniques, including logistic regression, decision trees, and ensemble methods.
-- Compared model performance using metrics such as accuracy, precision, recall, and F1-score.
-- Selected the most effective classification method for heart disease prediction.
-- Generated a detailed report summarizing findings and model evaluation results. 
+# Academic & Personal Projects
+### **Forecasting HIV Trends in Singapore (1985-2023) using ARIMA Modelling**
+- Preprocessed and analyzed historical HIV case data in Singapore from 1985 to 2023.
+- Determined the optimal ARIMA model parameters for accurately capturing trends in HIV cases.
+- Validated the model performance using performance metrics such as AIC or BIC.
+- Forecasted HIV case trends.
 
-### **Optimizing Logistic Regression for Spam Detection (NUS, DSA3102 - Convex Optimisation)**
-- Optimized logistic regression model for spam classification using Steepest Descent and Stochastic Gradient Descent algorithms.
-- Theoretically derived the gradient and Hessian of the logistic regression loss function.
-- Analyze and compare the convergence properties of Steepest Descent and Stochastic Gradient Descent.
-- Evaluated model performance based on accuracy, misclassification rates, and computational time.
-- Implemented and tested optimization algorithms on training and test datasets for performance assessment.
-- Documented insights into algorithm suitability for large-scale data optimization.
+### **Tree-Based Regression for Predicting Compressive Strength of Ultra-High Performance Concrete**
+- Developed predictive models for UHPC compressive strength.
+- Explored the performance of tree-based regression models.
+- Optimized the models to improve the prediction accuracy and reliability.
 
-### **Multiple Linear Regression of House Selling Prices (NUS, ST1131 - Introduction to Statistics & Statistical Computing)**
-- Developed linear regression models to predict house selling prices using various potential predictors.
-- Evaluated model adequacy and assessed assumptions such as linearity, independence, and homoscedasticity.
-- Applied necessary transformations to improve model fit and address issues like multicollinearity or non-linearity.
-- Interpreted the influence of significant variables on house selling prices.
-- Validated model performance using appropriate metrics, such as R-squared and RMSE.
-- Provided recommendations for improving model accuracy and robustness.
-- Documented findings and provided insights into key predictors affecting house prices.
-
-### **Critical Evaluation of Journal Studies on the DASH Diet's Efficacy in Managing Systolic Hypertension (RP, Biomedical & Healthcare Data Science)**
-- Conducted a systematic review of research studies on the DASH diet's impact on systolic hypertension.
-- Critically evaluated the quality and methodology of clinical trials and observational studies.
-- Analyzed key metrics such as blood pressure reduction, adherence rates, and long-term health outcomes.
-- Synthesized findings to identify strengths, limitations, and research gaps in current evidence.
-- Provided recommendations for future studies based on the findings from the literature review.
-- Documented a comprehensive critique of the DASH diet's effectiveness in managing systolic hypertension.
-
-### **Inferential Analysis of Cancer Carcinoma Incidence Across Gender and Racial Demographics in Singapore (RP, Biomedical & Healthcare Data Science)**
-- Analyzed cancer carcinoma incidence across gender and racial demographics using national cancer registries and healthcare data.
-- Employed biostatistical methods and statistical tools in R to identify trends and disparities in cancer occurrence.
-- Assessed the impact of gender and race on cancer risk, progression, and outcomes using statistical models.
-- Interpreted findings to understand demographic differences in cancer carcinoma incidence and health outcomes.
-- Documented and present the results, including recommendations for improving healthcare strategies.
-
-### **Early Diagnosis of Obesity (RP, AI Capstone Project)**
+### **Early Diagnosis of Obesity**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
-- Evaluated the impact of combined data sampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
+- Evaluated the impact of combined data resampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
 - Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
 - Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
 - Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
 
 # Skills 
-- **Languages:** Python, R, C/C++
-- **Database:** MySQL
-- **Developer Tools:** Spyder IDE, Visual Studio Code, LaTEX
-- **Low Code ML Applications:** KNIME, Orange3
+- **Languages:** Python, R, C
+- **Databases:** MySQL, ChromaDB, MongoDB
+- **Low Code ML Apps:** Orange3, KNIME, DataRobot, LangFlow, Flowise AI, LaTEX
+- **Statistical Apps:** Tableau, PowerBI, Minitab, SPSS, SAS
 
 # Completed DataCamp Courses
+- Developing LLM Applications with Python
+- Explainable AI in Python
 - Machine Learning with Tree-Based Models in Python
 - Time Series Analysis in Python
 - Working with HuggingFace
-- Monte Carlo Simulations in Python
 - Generalized Linear Models in Python & R
 - Exploratory Data Analysis in Python & R
 - Introduction & Intermediate SQL
@@ -119,7 +85,6 @@
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
-- NUS Opportunity Enhancement Grants for Engagement Programs
 
 
 
