@@ -55,7 +55,7 @@
 - Explored the performance of tree-based regression models.
 - Optimized the models to improve the prediction accuracy and reliability.
 
-### **Early Diagnosis of Obesity**
+### **Machine Learning for Early Diagnosis of Obesity**
 - Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
 - Evaluated the impact of combined data resampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
 - Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
