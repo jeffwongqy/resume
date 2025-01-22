@@ -20,13 +20,14 @@
 - Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
 
 ### **A*STAR - Agency for Science, Technology and Research | Deep Learning Research Intern | Jan 2024 - May 2024**
+- Project Title: Accelerated Design of High Entropy Alloys using DNN-Multioutput Regression.
 - Developed deep learning models and algorithms for materials informatics.
 - Collaborated with cross-functional teams to design and implement deep learning solutions that address specific materials science challenges and opportunities. 
 - Continuously researched and experimented with new deep-learning techniques and tools to improve model performance and accuracy.
 - Generated 1 million synthetic datasets to perform inverse prediction of the present work to design materials products with high mechanical properties.
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
-### **Ministry of Education | UAT Tester (Contract) | Apr 2020 - Jun 2021**
+### **Ministry of Education | Software Tester (Contract) | Apr 2020 - Jun 2021**
 - Executed black-box and grey-box UAT testing to ensure software met functional requirements. 
 - Conducted various types of manual testing, including sprint, sanity, and regression testing to verify system performance and reliability. 
 - Collaborated with other testers and QA to resolve issues efficiently to enhance the overall quality of the product. 
@@ -34,15 +35,14 @@
 - Contributed to the improvement of UAT methodologies to enhance the testing process. 
 - Identified and troubleshoot issues and bottlenecks to prevent potential system failures and improve user satisfaction.
 
-### **Building and Construction Authority | Data Analyst (Contract) | Mar 2019 - Sep 2019**
-- Organized and maintained records of advertising structures with Structural Plan Approvals (ST Approvals) and Certificates of Statutory Completion (CSC). 
-- Monitored the status of Temporary Building Permits (TBPs) for advertising structures with Exempted Licenses. 
-- Conducted comprehensive profiling of over 2000 applications to determine the issuance of Written (WD) and categorized the types of WD issued. 
-- Collaborated with cross-functional teams to streamline data management processes.
-- Utilized SQL platform to store and manage datasets related to advertising structures and permits.
-- Applied basic data cleansing techniques using Python for rigorous validation and transformation processes. 
-- Developed interactive visualization dashboards using Tableau to present the data insights to identify trends and patterns.
-
+### **Central Provident Fund Board | Software Tester (Contract) | Jan 2019 - Dec 2019**
+- Developed and executed test plans and test cases based on requirements.
+- Performed manual testing on software applications to identify defects.
+- Reported and tracked defects using test management tools.
+- Created and maintained test documentation (test cases, scripts, and reports).
+- Collaborated with developers and business analysts to ensure comprehensive testing.
+- Conducted regression and user acceptance testing (UAT).
+  
 # Academic & Personal Projects
 ### **Forecasting HIV Trends in Singapore (1985-2023) using ARIMA Modelling**
 - Preprocessed and analyzed historical HIV case data in Singapore from 1985 to 2023.
@@ -69,6 +69,7 @@
 - **Statistical Apps:** Tableau, PowerBI, Minitab, SPSS, SAS
 
 # Completed DataCamp Courses
+- Intermediate R and Python
 - Developing LLM Applications with Python
 - Explainable AI in Python
 - Machine Learning with Tree-Based Models in Python
