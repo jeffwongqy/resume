@@ -1,5 +1,5 @@
 # Education 
-### **National University of Singapore (NUS) | 2022 - Current**
+### **National University of Singapore (NUS) | 2022 - 2026**
 
 - B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
 
