@@ -1,12 +1,14 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - Current**
 
-- B.Sc. (Hons) in Statistics, Specialization in Data Science, Minor in Engineering Materials (Specialization in both Biomaterials and Structural Materials Tracks)
+- B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
 
-### **Republic Polytechnic | 2020 - 2024**
+### **Republic Polytechnic | 2022 - 2025**
+- Specialist Diploma in DevOps (Ongoing)
+- Specialist Diploma in Data Science (Data Engineering) (Ongoing)
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
+- Specialist Diploma in Data Science (Vision & Language Analytics)
 - Specialist Diploma in Biomedical Informatics & Analytics 
-- Specialist Diploma in Applied Artificial Intelligence
 
 # Work Experience
 ### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Jul 2024**
