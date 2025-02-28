@@ -2,6 +2,7 @@
 ### **National University of Singapore (NUS) | 2022 - 2026**
 
 - B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
+- Expected Honours (Distinction)
 
 ### **Singapore Polytechnic & Republic Polytechnic | 2022 - 2025**
 - Specialist Diploma in DevOps (Ongoing)
