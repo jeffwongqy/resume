@@ -3,7 +3,7 @@
 
 - B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
 
-### **Republic Polytechnic | 2022 - 2025**
+### **Singapore Polytechnic & Republic Polytechnic | 2022 - 2025**
 - Specialist Diploma in DevOps (Ongoing)
 - Specialist Diploma in Data Science (Data Engineering) (Ongoing)
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
