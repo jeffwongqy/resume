@@ -4,11 +4,9 @@
 - B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
 - Expected Honours (Distinction)
 
-### **Singapore Polytechnic & Republic Polytechnic | 2022 - 2025**
+### **Republic Polytechnic | 2022 - 2025**
 - Specialist Diploma in DevOps (Ongoing)
-- Specialist Diploma in Data Science (Data Engineering) (Ongoing)
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
-- Specialist Diploma in Data Science (Vision & Language Analytics)
 - Specialist Diploma in Biomedical Informatics & Analytics 
 
 # Work Experience
@@ -23,7 +21,6 @@
 - Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
 
 ### **A*STAR - Agency for Science, Technology and Research | Deep Learning Research Intern | Jan 2024 - May 2024**
-- Project Title: Accelerated Design of High Entropy Alloys using DNN-Multioutput Regression.
 - Developed deep learning models and algorithms for materials informatics.
 - Collaborated with cross-functional teams to design and implement deep learning solutions that address specific materials science challenges and opportunities. 
 - Continuously researched and experimented with new deep-learning techniques and tools to improve model performance and accuracy.
@@ -47,6 +44,9 @@
 - Conducted regression and user acceptance testing (UAT).
   
 # Academic & Personal Projects
+### Numerical Algorithms for Stimulating Heat Diffusion in a 2D-System
+TBC 
+
 ### **Forecasting HIV Trends in Singapore (1985-2023) using ARIMA Modelling**
 - Preprocessed and analyzed historical HIV case data in Singapore from 1985 to 2023.
 - Determined the optimal ARIMA model parameters for accurately capturing trends in HIV cases.
