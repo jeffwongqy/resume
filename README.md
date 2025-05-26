@@ -43,7 +43,7 @@
 - Collaborated with developers and business analysts to ensure comprehensive testing.
 - Conducted regression and user acceptance testing (UAT).
   
-# Academic & Personal Projects
+# Academic Projects
 ### Numerical Algorithms for Stimulating Heat Diffusion in a 2D-System
 TBC 
 
@@ -66,25 +66,21 @@ TBC
 - Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
 
 # Skills 
-- **Languages:** Python, R, C
-- **Databases:** MySQL, ChromaDB, MongoDB
-- **Low Code ML Apps:** Orange3, KNIME, DataRobot, LangFlow, Flowise AI, LaTEX
-- **Statistical Apps:** Tableau, PowerBI, Minitab, SPSS, SAS
+- **Languages:** Python, R, C, Java
+- **Databases:** MySQL, ChromaDB, PineCone
+- **Low Code ML Apps:** Orange3, KNIME, Flowise
+- **Statistical Apps:** Tableau, Minitab, SPSS, SAS
 
 # Completed DataCamp Courses
-- Intermediate R and Python
 - Developing LLM Applications with Python
 - Explainable AI in Python
 - Machine Learning with Tree-Based Models in Python
-- Time Series Analysis in Python
 - Working with HuggingFace
-- Generalized Linear Models in Python & R
-- Exploratory Data Analysis in Python & R
-- Introduction & Intermediate SQL
+
 
 # Research Interests
 - Regression Modelling
-- Time Series Analysis
+- Large-Language Models
 - Machine Learning and Deep Learning
 
 # Achievements
