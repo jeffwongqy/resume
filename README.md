@@ -51,13 +51,13 @@
 - Visualized the simulated heat distribution over time for each method.
   
 ### **Using Deep Feature Extraction and Ensemble Learning for Interpretable Fruit Spoilage Detection**
-- Use pre-trained CNN models to extract high-level features from fruit images.
+- Use pre-trained CNN models such as ResNet, DenseNet, and MobileNet to extract high-level features from fruit images.
 - Trained and evaluated the fine-tune extra-tree classifier using the extracted deep features to classify the fruit quality.
 - Integrated explainable AI - LIME to provide insight into model predictions by highlighting the influential image regions.
 - Utilized fine-tuned extra-tree model into the Streamlit web application for real-time classification. 
 
 ### **Machine Learning with XAI-Based Water Quality Assessment**
-- Optimized the feature selection for Decision Trees based on BayesSearchCV.
+- Optimized the feature selection for Decision Trees based on Bayes Optimization.
 - Applied hybrid oversampling and data cleaning techniques (SMOTE-ENN and SMOTE-Tomek) to address imbalance and improve model robustness.
 - Trained and evaluated the fine-tune tree-based classifiers based on Grid-Search CV.
 - Integrated fine-tuned tree-based models into the Streamlit web application for real-time classification.
