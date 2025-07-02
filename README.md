@@ -5,20 +5,20 @@
 - Expected Honours (Distinction)
 
 ### **Republic Polytechnic | 2022 - 2025**
+- Specialist Diploma in Business Analytics (Onging)
 - Specialist Diploma in DevOps (Ongoing)
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
 - Specialist Diploma in Biomedical Informatics & Analytics 
 
 # Work Experience
-### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Jul 2024**
-- Built web applications and user interfaces for various machine learning and deep learning models using HTML, CSS, Streamlit, Gradio, and Flask to ensure an intuitive and user-friendly experience. 
-- Developed responsive and interactive web pages that align with the design specifications. 
-- Written efficient SQL queries for data retrieval and manipulation for sentiment analysis based on user feedback on the web app. 
-- Assisted in identifying and resolving bugs and issues by conducting thorough bugging sessions. 
-- Applied UX/UI design principles to create visually appealing and intuitive interfaces to enhance user satisfaction and engagement. 
-- Documented technical specifications and user guides for future reference.
-- Collaborated with research scientists to integrate AI functionalities by providing the best possible user experience. 
-- Conducted usability testing during user feedback sessions and iteratively improved applications based on user input and analytics.
+### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Aug 2024**
+- Participated in Agile development workflows using Jira to create and manage user stories, track progress in sprints, and ensure timely resolution of issues and feature implementations. 
+- Managed source code using Git, such as branching, pull requests, and regular commits to support collaborative development and version control. 
+- Built responsive and interactive web apps and user interfaces for machine learning and deep learning models via HTML, CSS, Python, Streamlit, Gradio, and Flask. 
+- Implemented and executed SQL queries to retrieve, filter, and process user-generated data to support machine learning and deep learning workflow. 
+- Wrote and maintained simple test cases to verify core application functionality.
+- Implemented automated testing using Selenium to simulate user actions and validate UI components. 
+- Conducted usability testing sessions and collected qualitative user feedback and iteratively refined application features based on insights and analytics.
 
 ### **A*STAR - Agency for Science, Technology and Research | Deep Learning Research Intern | Jan 2024 - May 2024**
 - Developed deep learning models and algorithms for materials informatics.
@@ -28,12 +28,12 @@
 - Stayed up-to-date with the latest advancements in deep learning and contributed to the development team through knowledge sharing and mentorship.
 
 ### **Ministry of Education | Software Tester (Contract) | Apr 2020 - Jun 2021**
-- Executed black-box and grey-box UAT testing to ensure software met functional requirements. 
-- Conducted various types of manual testing, including sprint, sanity, and regression testing to verify system performance and reliability. 
-- Collaborated with other testers and QA to resolve issues efficiently to enhance the overall quality of the product. 
-- Documented and communicated test results and issues clearly. 
-- Contributed to the improvement of UAT methodologies to enhance the testing process. 
-- Identified and troubleshoot issues and bottlenecks to prevent potential system failures and improve user satisfaction.
+- Designed, executed, and maintained detailed black-box test cases for an education-focused web application, ensuring alignment with functional requirements and end-user expectations.
+- Developed and managed test case documentation in JIRA. 
+- Performed comprehensive manual testing (sanity, regression, and sprint testing) to validate key features across development cycles. 
+- Understood and applied Agile development principles with daily meetings. 
+- Collaborated closely with cross-functional teams, including developers, product owners, and QA engineers, to triage issues and validate fixes promptly.
+- Implemented automated testing using Selenium by developing reusable test scripts.
 
 ### **Central Provident Fund Board | Software Tester (Contract) | Jan 2019 - Dec 2019**
 - Developed and executed test plans and test cases based on requirements.
@@ -45,42 +45,41 @@
   
 # Academic Projects
 ### Numerical Algorithms for Stimulating Heat Diffusion in a 2D-System
-TBC 
+- Implemented finite difference methods using explicit and implicit schemes for solving the 2D heat equations.
+- Evaluated the stability conditions and accuracy for each numerical scheme through theoretical and numerical analysis.
+- Assessed the computational efficiency and trade-offs for each method in terms of convergence behaviour, running time, and memory usage.
+- Visualized the simulated heat distribution over time for each method.
+  
+### **Using Deep Feature Extraction and Ensemble Learning for Interpretable Fruit Spoilage Detection**
+- Use pre-trained CNN models to extract high-level features from fruit images.
+- Trained and evaluated the fine-tune extra-tree classifier using the extracted deep features to classify the fruit quality.
+- Integrated explainable AI - LIME to provide insight into model predictions by highlighting the influential image regions.
+- Utilized fine-tuned extra-tree model into the Streamlit web application for real-time classification. 
 
-### **Forecasting HIV Trends in Singapore (1985-2023) using ARIMA Modelling**
-- Preprocessed and analyzed historical HIV case data in Singapore from 1985 to 2023.
-- Determined the optimal ARIMA model parameters for accurately capturing trends in HIV cases.
-- Validated the model performance using performance metrics such as AIC or BIC.
-- Forecasted HIV case trends.
-
-### **Tree-Based Regression for Predicting Compressive Strength of Ultra-High Performance Concrete**
-- Developed predictive models for UHPC compressive strength.
-- Explored the performance of tree-based regression models.
-- Optimized the models to improve the prediction accuracy and reliability.
-
-### **Machine Learning for Early Diagnosis of Obesity**
-- Proposed a solution to resolve the obesity issue that has reached epidemic proportions globally with at least 2.8 million people dying each year as a result of being overweight or obese.
-- Evaluated the impact of combined data resampling techniques of SMOTE-Tomek and SMOTE-ENN for imbalanced classes.
-- Experimented with several ensemble machine-learning models to determine the most suitable and effective for early diagnosis of obesity.
-- Fine-tuned the hyperparameters using GridSearchCV, RandomSearchCV, and BayesSearch Optimization of the selected machine learning model.
-- Developed an intuitive web app for users to interact with the machine learning application using HTML, CSS, and Python Flask. 
+### **Machine Learning with XAI-Based Water Quality Assessment**
+- Optimized the feature selection for Decision Trees based on BayesSearchCV.
+- Applied hybrid oversampling and data cleaning techniques (SMOTE-ENN and SMOTE-Tomek) to address imbalance and improve model robustness.
+- Trained and evaluated the fine-tune tree-based classifiers based on Grid-Search CV.
+- Integrated fine-tuned tree-based models into the Streamlit web application for real-time classification.
+- Utilized explainable AI - SHAP to visualize and interpret feature influence on model predictions for transparency.
 
 # Skills 
-- **Languages:** Python, R, C, Java
-- **Databases:** MySQL, ChromaDB, PineCone
-- **Low Code ML Apps:** Orange3, KNIME, Flowise
-- **Statistical Apps:** Tableau, Minitab, SPSS, SAS
+- **Languages:** Python, R, Java, Javascript
+- **Automated Testing Tools:** Selenium, JUnits
+- **Databases:** MySQL, MongoDB
+- **Low-Code Tools:** Orange, KNIME, SAS, Tableau, Power BI, Flowise
 
 # Completed DataCamp Courses
+- RAG with Langchain
 - Developing LLM Applications with Python
 - Explainable AI in Python
 - Machine Learning with Tree-Based Models in Python
 - Working with HuggingFace
 
-
 # Research Interests
 - Regression Modelling
 - Large-Language Models
+- Computer Vision
 - Machine Learning and Deep Learning
 
 # Achievements
