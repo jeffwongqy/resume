@@ -54,7 +54,7 @@
 - Use pre-trained CNN models such as ResNet, DenseNet, and MobileNet to extract high-level features from fruit images.
 - Trained and evaluated the fine-tune extra-tree classifier using the extracted deep features to classify the fruit quality.
 - Integrated explainable AI - LIME to provide insight into model predictions by highlighting the influential image regions.
-- Utilized fine-tuned extra-tree model into the Streamlit web application for real-time classification. 
+- Utilized a fine-tuned extra-tree model in the Streamlit web application for real-time classification. 
 
 ### **Machine Learning with XAI-Based Water Quality Assessment**
 - Optimized the feature selection for Decision Trees based on Bayes Optimization.
@@ -64,10 +64,10 @@
 - Utilized explainable AI - SHAP to visualize and interpret feature influence on model predictions for transparency.
 
 # Skills 
-- **Languages:** Python, R, Java, Javascript
+- **Languages:** Python, R, Java, JavaScript
 - **Automated Testing Tools:** Selenium, JUnits
 - **Databases:** MySQL, MongoDB
-- **Low-Code Tools:** Orange, KNIME, SAS, Tableau, Power BI, Flowise
+- **Low-Code Tools:** Orange, KNIME, SAS, Tableau, Power BI, Flowise, GitHub
 
 # Completed DataCamp Courses
 - RAG with Langchain
