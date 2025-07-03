@@ -66,15 +66,16 @@
 # Skills 
 - **Languages:** Python, R, Java, JavaScript, HTML, CSS
 - **DevOps:** GitHub, JIRA, Maven, Jenkins, Puppet, Docker, Nagios, Selenium, JUnits
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, PHP
 - **Low-Code:** Orange, KNIME, SAS, Tableau, Power BI, Flowise
 
-# Completed DataCamp Courses
-- RAG with Langchain
-- Developing LLM Applications with Python
-- Explainable AI in Python
-- Machine Learning with Tree-Based Models in Python
-- Working with HuggingFace
+# Completed Short Courses
+- Fundamentals of Deep Learning from NVIDIA
+- RAG with Langchain from Datacamp
+- Developing LLM Applications with Python from Datacamp
+- Explainable AI in Python from Datacamp
+- Machine Learning with Tree-Based Models in Python from Datacamp
+- Working with HuggingFace from Datacamp
 
 # Research Interests
 - Regression Modelling
