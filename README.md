@@ -5,7 +5,7 @@
 - Expected Honours (Distinction)
 
 ### **Republic Polytechnic | 2022 - 2025**
-- Specialist Diploma in Business Analytics (Onging)
+- Specialist Diploma in Cloud Computing (Onging)
 - Specialist Diploma in DevOps (Ongoing)
 - Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
 - Specialist Diploma in Biomedical Informatics & Analytics 
@@ -64,10 +64,10 @@
 - Utilized explainable AI - SHAP to visualize and interpret feature influence on model predictions for transparency.
 
 # Skills 
-- **Languages:** Python, R, Java, JavaScript
-- **Automated Testing Tools:** Selenium, JUnits
+- **Languages:** Python, R, Java, JavaScript, HTML, CSS
+- **DevOps:** GitHub, JIRA, Maven, Jenkins, Puppet, Docker, Nagios, Selenium, JUnits
 - **Databases:** MySQL, MongoDB
-- **Low-Code Tools:** Orange, KNIME, SAS, Tableau, Power BI, Flowise, GitHub
+- **Low-Code:** Orange, KNIME, SAS, Tableau, Power BI, Flowise
 
 # Completed DataCamp Courses
 - RAG with Langchain
