@@ -4,10 +4,11 @@
 - B.Sc. (Hons) in Statistics, Double Minors in Biomedical Engineering & Engineering Materials
 - Expected Honours (Distinction)
 
-### **Republic Polytechnic | 2022 - 2025**
-- Specialist Diploma in Cloud Computing (Onging)
-- Specialist Diploma in DevOps (Ongoing)
-- Specialist Diploma in Applied Generative Artificial Intelligence (Ongoing)
+### **Republic Polytechnic | 2022 - 2026**
+- Specialist Diploma in Environmental and Corporate Sustainab ility
+- Specialist Diploma in Business Analytics
+- Specialist Diploma in DevOps
+- Specialist Diploma in Applied Generative Artificial Intelligence
 - Specialist Diploma in Biomedical Informatics & Analytics 
 
 # Work Experience
