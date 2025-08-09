@@ -45,24 +45,25 @@
 - Conducted regression and user acceptance testing (UAT).
   
 # Academic Projects
-### Numerical Algorithms for Stimulating Heat Diffusion in a 2D-System
+### **Finite Differential Analysis for Solving Heat Diffusion in a 2D-System**
 - Implemented finite difference methods using explicit and implicit schemes for solving the 2D heat equations.
 - Evaluated the stability conditions and accuracy for each numerical scheme through theoretical and numerical analysis.
 - Assessed the computational efficiency and trade-offs for each method in terms of convergence behaviour, running time, and memory usage.
 - Visualized the simulated heat distribution over time for each method.
-  
-### **Using Deep Feature Extraction and Ensemble Learning for Interpretable Fruit Spoilage Detection**
-- Use pre-trained CNN models such as ResNet, DenseNet, and MobileNet to extract high-level features from fruit images.
-- Trained and evaluated the fine-tune extra-tree classifier using the extracted deep features to classify the fruit quality.
-- Integrated explainable AI - LIME to provide insight into model predictions by highlighting the influential image regions.
-- Utilized a fine-tuned extra-tree model in the Streamlit web application for real-time classification. 
 
-### **Machine Learning with XAI-Based Water Quality Assessment**
-- Optimized the feature selection for Decision Trees based on Bayes Optimization.
-- Applied hybrid oversampling and data cleaning techniques (SMOTE-ENN and SMOTE-Tomek) to address imbalance and improve model robustness.
-- Trained and evaluated the fine-tune tree-based classifiers based on Grid-Search CV.
-- Integrated fine-tuned tree-based models into the Streamlit web application for real-time classification.
-- Utilized explainable AI - SHAP to visualize and interpret feature influence on model predictions for transparency.
+### **Accelerated Design of High Entropy Alloys Based on DNN-Multioutput Regression**
+- Curated and preprocessed datasets derived from multiple research publications to ensure data quality and consistency.
+- Researched and applied multi-output regression models to simultaneously predict multiple mechanical properties.
+- Leveraged model outputs to guide the design of high-entropy alloys (HEAs) with both high ultimate tensile strength (UTS) and reduced density.
+- Developed and deployed an interactive Streamlit web application to showcase and utilise the trained deep neural network (DNN) model.
+  
+### **Inverse Engineering of Al-Alloys Post Processing Methods Classification**
+- TBC
+
+### **Comparative Study of Parallel and Chained Machine Learning Approaches for Load and Ductility Prediction in Steel Fiber–Reinforced Concrete Beams**
+- TBC
+
+
 
 # Skills 
 - **Languages:** Python, R, Java, JavaScript, HTML, CSS
