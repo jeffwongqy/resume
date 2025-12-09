@@ -1,5 +1,5 @@
 # Education 
-### **National University of Singapore (NUS) | 2022 - 2026**
+### **National University of Singapore (NUS) | 2022 - 2026** 
 
 - B.Sc. (Hons) in Statistics, Specialisation in Data Science, Minor in Engineering Materials
 - Expected Honours (Distinction)
