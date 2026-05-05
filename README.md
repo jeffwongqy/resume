@@ -1,8 +1,7 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - 2026** 
 
-- B.Sc. (Hons) in Statistics, Specialisation in Data Science, Minor in Physics and Engineering Materials
-- Honours (Distinction)
+- B.Sc. (Hons) in Statistics, Minors in Physics and Engineering Materials (Honours with Distinction)
 
 # Work Experience
 ### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Aug 2024**
