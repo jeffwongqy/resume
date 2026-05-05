@@ -1,8 +1,8 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - 2026** 
 
-- B.Sc. (Hons) in Statistics, Specialisation in Data Science, Minor in Engineering Materials
-- Expected Honours (Distinction)
+- B.Sc. (Hons) in Statistics, Specialisation in Data Science, Minor in Physics and Engineering Materials
+- Honours (Distinction)
 
 # Work Experience
 ### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Aug 2024**
@@ -49,10 +49,10 @@
 - Machine Learning with Tree-Based Models in Python from Datacamp
 - Working with HuggingFace from Datacamp
 
-# Research Interests
-- Regression Modelling
-- Large-Language Models
+# Interests
 - Machine Learning and Deep Learning
+- Bayesian Statistics
+- Large-Language Models
 
 # Achievements
 - A*STAR ARIA Research Internship Award 2024
