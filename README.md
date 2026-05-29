@@ -1,42 +1,30 @@
 # Education 
 ### **National University of Singapore (NUS) | 2022 - 2026** 
 
-- B.Sc. (Hons) in Statistics, Minors in Physics and Engineering Materials (Honours with Distinction)
+- B.Sc. (Hons) in Statistics, Minors in Data Analytics and Engineering Materials (Honours with Distinction)
 
 # Work Experience
-### **A*STAR - Agency for Science, Technology and Research | Software Development Research Intern | May 2024 - Aug 2024**
-- Built and deployed ML web applications using Python, Flask, Streamlit, HTML, CSS, etc., to deliver intuitive, user-friendly interfaces. 
-- Managed collaborative software development with Git and implemented automated CI/ CD workflows using Jenkins for reliable builds and testing. 
-- Containerised ML applications with Docker to ensure consistent environments and smooth deployment across development and production. 
-- Participated in Agile workflows using Jira and collaborated with researchers to translate ML models into practical, production-ready tools.
-- 
-### **A*STAR - Agency for Science, Technology and Research | Deep Learning Research Intern | Jan 2024 - May 2024**
-- Developed deep-learning architectures for multi-output regression in materials, improving prediction accuracy and robustness. 
-- Built Python-based ML pipelines and automated workflows using Git and Jenkins for reproducible and scalable model development. 
-- Collaborated with cross-functional teams to translate scientific requirements into deployable ML solutions. 
-- Research and tested new deep-learning techniques to enhance model performance and generalisation. 
-- Documented model architectures, training processes, and evaluation methods to ensure transparency and reproducibility.
+### **A*STAR - Agency for Science, Technology and Research | Data Science Research Intern | Jan 2024 - Aug 2024**
+- Conducted literature reviews on state-of-the-art machine learning (ML) models for alloy design and mechanical property prediction, and evaluated existing approaches in materials informatics.
+- Validated and improved existing ML/DL models using open-source Python codes and alloy datasets through data preprocessing, model evaluation, and implementation of enhanced predictive techniques.
+- Applied improved ML models to design new alloys with optimized mechanical properties, while presenting research findings through weekly meetings, written reports, and documented code implementations.
 
 ### **Building & Construction Authority (BCA) | Data Analyst Intern | May 2023 - Aug 2023**
-- Extracted data from internal databases using Power Automate.
-- Compiled, categorised, and analysed records of advertising structures to identify and flag expired temporary building permits for advertising structures with exempted licenses. 
-- Conducted large-scale data profiling on approximately 2000 applications to determine the issuance rates of Written Directions (WD) and analyse the distribution of WD types. 
-- Utilised R and Python to perform statistical analysis techniques and visualisation to identify trends, data quality issues, and compliance insights. 
+- Developed and automated data extraction workflows using Microsoft Power Automate to streamline data collection from internal systems and improve efficiency for downstream analytics.
+- Conducted profiling and analysis of approximately 2,000 applications to evaluate Written Direction (WD) issuance rates, identify distribution patterns, and support data-driven decision-making.
+- Performed statistical analysis and created data visualizations using R and Python to uncover trends, generate compliance insights, and communicate findings effectively.
 
 ### **Ministry of Education | Software Tester (Contract) | Apr 2020 - Jun 2021**
-- Designed, executed, and maintained detailed black-box test cases for an education-focused web application, ensuring alignment with functional requirements and end-user expectations.
-- Developed and managed test case documentation in JIRA. 
-- Performed comprehensive manual testing (sanity, regression, and sprint testing) to validate key features across development cycles. 
-- Understood and applied Agile development principles with daily meetings. 
-- Collaborated closely with cross-functional teams, including developers, product owners, and QA engineers, to triage issues and validate fixes promptly.
-- Implemented automated testing using Selenium by developing reusable test scripts.
+- Designed, executed, and maintained detailed black-box test cases for an education-focused web application, ensuring alignment with functional requirements and user expectations.
+- Developed and managed test documentation in Jira and performed automated sanity, regression, and sprint testing using Selenium WebDriver to validate application features across development cycles.
+- Collaborated closely with cross-functional teams, including developers, product owners, and QA engineers, to triage defects, validate fixes, and support timely software delivery.
   
 # Academic Projects
 
 
 
 # Skills 
-- Programming Languages: R, Python, C/ C++
+- Programming Languages: R, Python, Bash, SQL
 - Frameworks: Streamlit, Sklearn, Tensorflow, MLFlow, Flask, Git, Docker, Kubernetes, Jira, Jenkins, LaTEX 
 - Domains: Machine Learning, Deep Learning, MLOps, NLP 
 
