@@ -23,6 +23,7 @@
 - Collaborated closely with cross-functional teams, including developers, product owners, and QA engineers, to triage defects, validate fixes, and support timely software delivery.
   
 # Academic Projects
+**Uniform Singapore Energy Price Forecasting 2025 | Aug 2025 - Nov 2025**
 - Engineered a hybrid ARIMA-GARCH-BiLSTM pipeline in Python to forecast highly volatile Singapore electricity energy costs, combining classical econometrics with deep learning to capture linear trends, volatility clustering, and complex temporal dependencies.
 - Achieved 90% forecasting accuracy rate on the out-of-sample test dataset by optimizing model hyperparameters and utilizing walk-forward validation to eliminate data leakage and ensure robust generalization.
 
